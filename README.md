@@ -1,3 +1,6 @@
-- Implement a solution following the [React task guideline](https://github.com/mate-academy/react_task-guideline#react-tasks-guideline).
-- Use the [React TypeScript cheat sheet](https://mate-academy.github.io/fe-program/js/extra/react-typescript).
-- Replace `<your_account>` with your Github username in the [DEMO LINK](https://anastasiia-khudych.github.io/react_todo-app-with-api/) and add it to the PR description.
+# To-Do app
+
+To Do List is a single page web app that lets users manage a simple list of tasks. It was developed using React, Typescript, CSS, RESTfull API;
+
+[DEMO](https://anastasiia-khudych.github.io/To-do-app/)
+
